@@ -19,5 +19,5 @@ Função que simula o paradoxo de Monty Hall e retorna a porcentagem de vitória
 		 // De 100000 partidas, ele ganhou 66627 Vezes (66.63 %)
 
 ## index.html ,  main.css e app.js
-Um site pequeno e simples criado em um curso da fundação bradesco onde podemos trocar o tema através de JavaScript
-![Clique para acessar](https://leogremes.github.io/testes-devaneios/)
+Um site pequeno e simples criado em um curso da fundação bradesco onde podemos trocar o tema através de JavaScript<br>
+[Clique para acessar](https://leogremes.github.io/testes-devaneios/)

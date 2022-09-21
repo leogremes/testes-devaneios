@@ -20,4 +20,4 @@ Função que simula o paradoxo de Monty Hall e retorna a porcentagem de vitória
 
 ## index.html ,  main.css e app.js
 Um site pequeno e simples criado em um curso da fundação bradesco onde podemos trocar o tema através de JavaScript
-
+![Clique para acessar](https://leogremes.github.io/testes-devaneios/)
